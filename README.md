@@ -309,6 +309,3 @@ Contributions and suggestions are welcome.
 3. Make and test your changes.
 4. Submit a pull request with a clear description.
 
-## License
-
-No license has been specified yet. Add a `LICENSE` file before presenting the project as open source under a particular license.
